@@ -1,0 +1,19 @@
+{
+	"name": "rona-tracker",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "next",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"next": "^9.3.1",
+		"react": "^16.13.0",
+		"react-dom": "^16.13.0",
+		"styled-components": "^5.0.1"
+	},
+	"devDependencies": {},
+	"author": "",
+	"license": "ISC"
+}
